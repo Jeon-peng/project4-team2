@@ -19,6 +19,13 @@
 | :---: | :---: | :---: | :---: |
 |GitHub| [@kangdaia](https://github.com/kangdaia) | [@Jeon-peng](https://github.com/Jeon-peng) | [@joyunji](https://github.com/joyunji) |
 
+## 팀원 역할
+![image](https://github.com/Jeon-peng/project4-team2/assets/70497132/d53518f3-19e6-4e72-a663-7086a2e285d3)
+
+## 팀원 기여도
+![image](https://github.com/Jeon-peng/project4-team2/assets/70497132/1ff188ea-e2bb-487c-90c6-607da7e1cc88)
+
+
 ## Tech
 
 | Field | Stack |
